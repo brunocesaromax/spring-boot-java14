@@ -1,6 +1,7 @@
 # Spring Boot Rest API with Java 14
-Basic project using: Spring Boot + Java 14 + H2 DB.
+Basic project using: Spring Boot + Java 14 + MySql.
 The objective of project is serve as a base to future projects who will use java 14 and spring boot.
+Reference: https://www.youtube.com/watch?time_continue=3825&v=imlGrTZmDKo&feature=emb_logo
 
 ## **Development environment**
 1. Maven
